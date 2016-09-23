@@ -1,0 +1,14 @@
+{
+  "name": "json-server-db",
+  "version": "1.0.0",
+  "description": "Jack's json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack·s",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.8.21"
+  }
+}
