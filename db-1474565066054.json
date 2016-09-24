@@ -1,0 +1,16 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "蒋鑫"
+    },
+    {
+      "id": 2,
+      "name": "Jacks"
+    },
+    {
+      "id": 3,
+      "name": "perlin"
+    }
+  ]
+}
